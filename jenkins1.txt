@@ -169,4 +169,4 @@ OUTPUT
 - Docker image created
 - Image pushed to DockerHub
 - Container deployed
-- Jenkins pipeline SUCCESS
+- Jenkins pipeline SUCCESS.
