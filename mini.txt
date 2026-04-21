@@ -76,3 +76,4 @@ CLEAN UP
 -----------------------------------
 kubectl delete deployment myapp
 kubectl delete service myapp
+.
