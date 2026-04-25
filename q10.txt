@@ -51,7 +51,7 @@ jobs:
 -----------------------------
 git add .
 git commit -m "Added Python CI workflow"
-git push
+git push -u origin main
 
 -----------------------------
 Execution Summary:
